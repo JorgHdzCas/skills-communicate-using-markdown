@@ -1,7 +1,13 @@
 # Curso Github
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-## este es un ejemplo de un codigo
+## Ejemplo 1 de como se ve un cofigo
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+## Ejemplo 2 de como se ve un codigo
 
 ``` javascript
 var myVar = "Hello, world!";
